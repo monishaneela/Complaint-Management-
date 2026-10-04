@@ -1,0 +1,9 @@
+{
+  "name": "campus-complaint-management-system",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.1",
+    "react-native": "0.74.5"
+  }
+}
